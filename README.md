@@ -1,6 +1,6 @@
 # star-space-war-1-player ![Build status badge](https://github.com/mameeewin/star-space-war-1-player/workflows/MakeCode/badge.svg)
 
-
+https://makecode.com/_XEeELqWyhHiX
 
 ## Use this extension
 
